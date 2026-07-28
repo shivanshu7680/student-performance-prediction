@@ -165,7 +165,6 @@ The model is evaluated using standard Machine Learning metrics:
 
 ## 💻 Screenshots
 
-### Home Page
 
 
 ## 🤝 Contributing
